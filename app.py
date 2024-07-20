@@ -24,6 +24,11 @@ img {
 [data-testid="StyledFullScreenButton"] {
     visibility: hidden;            
 }
+.st-emotion-cache-1vxmjmh [data-testid="stText"] .st-emotion-cache-183lzff {
+    color: lightgray;
+    font-size: 12px;
+    justify-content: right;
+}
 </style>
 """, unsafe_allow_html=True)
 
